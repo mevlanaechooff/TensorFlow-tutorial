@@ -1,2 +1,7 @@
-# TensorFlow-tutorial
-TensorFlow Eğitimleri Tekrarları
+####        
+    ⓜⓔⓥⓛⓐⓝⓐⓔⓒⓗⓞⓞⓕⓕ
+
+      【T】【e】【n】【s】【o】【r】【F】【l】【o】【w】【s】
+                  
+              ⓣⓤⓣⓞⓡⓘⓐⓛ
+####
